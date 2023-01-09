@@ -1,4 +1,6 @@
 # mobi
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmobi-lang%2Fmobi.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmobi-lang%2Fmobi?ref=badge_shield)
+
 
 Welcome! This is the repository for the new and fresh
 Mobi language.
@@ -25,3 +27,7 @@ in type safety, memory safety, ease of use, etc.
 The compiler will be like no compiler ever seen
 before since it'll be implemented completely in Python,
 same with our official tooling until Mobi is usable for them.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmobi-lang%2Fmobi.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmobi-lang%2Fmobi?ref=badge_large)
